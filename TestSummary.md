@@ -1,27 +1,25 @@
-# Test Summary Report - Login
+# Test Summary Report - Register
 
 **Project Name:** OpenCart Manual Testing
 **Module:** Register
 
 ## Test Execution Summary
-Total Test Cases: 8
-Passed: 8
-Failed: 0
+Total Test Cases: 7
+Passed: 6
+Failed: 1
 Blocked: 0
-
 
 ## Bugs Identified
 
-0
+1
+
 ## Defects Found
 High: 0
-Medium: 0
+Medium: 1
 Low: 0
 
-## Observation
-
-The application response time was slightly slow during testing, but functionality worked as expected.
 
 ## Conclusion
 
-Login functionality works correctly with proper validation and error handling.
+The registration functionality works but contains validation issues that should be fixed.
+

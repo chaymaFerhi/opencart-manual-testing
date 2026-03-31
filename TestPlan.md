@@ -1,40 +1,40 @@
-# Test Plan – OpenCart Login Feature
+# Test Plan – OpenCart Register Feature
 **Project Name:** OpenCart Manual Testing
-**Module Name:** Login
+**Module Name:** Register
 **Test Type:** Manual Testing
 
 ## Test Environment
 
 * Browser: Google Chrome
 * OS: Windows
-* Application URL: https://www.opencart.com/index.php?route=account/login
-
-  
+* Application URL: https://www.opencart.com/index.php?route=account/register
 ## Objective
 
-To verify the functionality of the login feature.
+To verify the functionality of the user registration feature in the OpenCart demo website.
 
 ## Test Approach
 
-Testing Login functionality including validation and password reset.
+Testing the "Register Account" functionality.
 
 
 ## Scope
 
-* Valid login
-* Invalid login
-* Empty field validation
-* Forgot password functionality
+* Registration with valid data
+* Registration with empty fields
 * Email validation
-* Case sensitivity
+* Password validation
+* Privacy policy checkbox validation
 
 ## Out of Scope
 
-* Performance testing
-* Security testing
 * Payment functionality
+* Order placement
+* Performance testing
 
 ## Test Deliverables
 
 * Test Cases
+* Bug Report
+* Screenshots
 * Test Summary
+
